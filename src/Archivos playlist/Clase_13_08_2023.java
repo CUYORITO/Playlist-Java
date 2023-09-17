@@ -155,16 +155,7 @@ public class Clase_13_08_2023{
 
         Clase_13_08_2023 clase = new Clase_13_08_2023();
         
-        clase.crearPlaylist();
-        clase.crearPlaylist();
-        clase.crearPlaylist();
-        clase.editarPlaylist();
-        clase.agregar();
-        clase.agregar();
-
-        System.out.println(arrays.get(1).get(0));
-        System.out.println(arrays.get(1).get(1));
-        System.out.println(arrays.get(1).get(2));
+        
         
     }
 
